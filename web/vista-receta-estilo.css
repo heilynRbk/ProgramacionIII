@@ -1,0 +1,38 @@
+body{
+   background-color: #2f7e89;
+}
+img{
+    heigth:70%;
+    width: 500px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+p{
+    margin-bottom: 20px;
+    text-align: justify;
+    line-height: 1.5;
+    margin-right: 20px;
+    margin-left: 20px;
+    
+}
+
+#preparacion{
+    margin-top: 20px;
+}
+
+form{
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+h3,h2{
+    margin-left: 20px;
+}
+
+#comentarios{
+    color:white;
+    width: 80%;
+    background-color: rgba(0,0,0,0.5);
+    margin-left: auto; /*Centran*/
+    margin-right: auto; 
+}

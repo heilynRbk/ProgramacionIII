@@ -1,0 +1,39 @@
+/*Menu*/
+*{
+    margin: 0;
+    box-sizing: border-box;  
+}
+
+header{ 
+    background: #E7A84A;
+    width:100%;
+    height: 50px;
+}
+
+header .menu{
+    padding-top: 5px;
+    display:flex;
+}
+header .menu ul{
+    margin-top: 8px;
+    display:flex;
+    position:relative;
+    left:50%;
+    list-style-type:none;
+}
+
+header .menu li{
+    position:relative;
+    right:50%;
+}
+.menu li a {
+    color: white;
+    font-size: 20px;
+    margin-top: 20px;
+    padding-top: 30px;
+    padding-left: 20px;
+}
+
+a{
+    text-decoration: none;
+}
